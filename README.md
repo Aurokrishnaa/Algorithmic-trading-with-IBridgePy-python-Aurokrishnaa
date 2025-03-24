@@ -1,7 +1,7 @@
 # Algorithmic trading-with-python-Aurokrishnaa
 A beginner friendly and introductory Jupyter Notebook explaining how to automate trading using IBridgePy A Python package and IBKR, with code examples and strategy logic
 
-# 📈 Automated Trading with IBridgePy & IBKR
+#  Automated Trading with IBridgePy & IBKR
 
 This Jupyter Notebook walks through the foundations of **algorithmic trading** using the Python package **IBridgePy**, integrated with **Interactive Brokers (IBKR)**. It’s designed for anyone interested in building rule based trading systems with Python — even without a live strategy in place yet.
 
@@ -19,7 +19,7 @@ This Jupyter Notebook walks through the foundations of **algorithmic trading** u
 
 ---
 
-## 📌 Who This Is For
+##  Who This Is For
 
 This notebook is perfect for:
 - Finance students & enthusiasts learning algo trading
@@ -28,7 +28,7 @@ This notebook is perfect for:
 
 ---
 
-## 🧑‍💻 Author
+##  Author
 
 **Aurokrishnaa Ravindran Lakshmi**  
 MS Finance (Quantitative Focus)  
